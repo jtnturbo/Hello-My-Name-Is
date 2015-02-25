@@ -1,0 +1,12 @@
+// HelloMyNameIs.java
+// Introducing myself
+public class HelloMyNameIs 
+{
+	public static void main (String[] args)
+	{
+		//main method begins execution of string
+		System.out.print( "Hello,\n");
+		System.out.println( "My Name is Jacob");
+	} // ending of main method
+
+} // ending of class
